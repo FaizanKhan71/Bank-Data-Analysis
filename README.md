@@ -100,9 +100,9 @@ Licensed under the **MIT License** — see the [LICENSE](LICENSE) file for detai
 **Faizan** — Data Analytics & Power BI Professional  
 Focused on **SQL, Power BI, Python, and scalable data solutions**
 
-📬 [Email](mailto:fk9822647@gmail.com)  
-💼 [GitHub](https://github.com/Faizan-26079)  
-🌐 [Portfolio](https://your-portfolio-link.com)  
+📬 [Email](mailto:faizankhanofficial71@gmail.com)  
+💼 [GitHub](https://github.com/FaizanKhan71)  
+🌐 [Portfolio](https://faizankhan71.github.io/)  
 📱 +91-8459414569
 
 ---
@@ -112,6 +112,6 @@ Focused on **SQL, Power BI, Python, and scalable data solutions**
 > **What improvements or features would you suggest to make this loan analytics dashboard even more impactful?**
 
 Feel free to share your ideas, raise issues, or contribute enhancements.  
-📧 **Email**: [fk9822647@hmail.com](mailto:fk9822647@hmail.com)
+📧 **Email**: [faizankhanofficial71@gmail.com](mailto:fk9822647@hmail.com)
 
 
